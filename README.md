@@ -25,3 +25,5 @@
   <a href = "mailto:thierrypitela@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thierry-pitela-santos-970221188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img src="https://66.media.tumblr.com/04222dc0068696db3238bff88c968305/tumblr_inline_n92y7nGykO1s3jnih.gif" width="100%" height="300"/>
