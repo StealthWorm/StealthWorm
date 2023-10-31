@@ -95,7 +95,7 @@
 
 <div align="center">
    <a href="https://github.com/tthn0/Spotify-Readme">
-     <img width="30%" height="100px" src="https://spotify-readme-wheat.vercel.app/api?theme=dark&spin=true&rainbow=true" alt="Current Spotify Song">
+     <img width="30%" height="100px" src="https://spotify-readme-afvlddu05-stealthworm.vercel.app/api?theme=dark&spin=true" alt="Current Spotify Song">
    </a>	
 </div>
 
