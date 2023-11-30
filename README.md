@@ -30,7 +30,7 @@
 - I love drawing and anything related to dinossaurs ou astronomy. 🦖👽🌌🎨
 - Fan of old school games. 🎮👾<br>
 
-### Estatísticas do GitHub (*GitHub Stats*)
+### 🚀 Estatísticas do GitHub (*GitHub Stats*) 🚀
 
 <table style="width: auto">
   <tr>
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-## 🪶Atividades (*Activities*)
+## 🪶Atividades (*Activities*) 🪶
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stealthworm&bg_color=292929&color=3bc484&line=3dffc5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
