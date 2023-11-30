@@ -9,7 +9,7 @@
   <a href="https://www.behance.net/thierrypitela" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
 
-### 🦑✨ Who am I ✨🦑
+### 🦑✨ Quem sou eu (*Who am I*) ✨🦑
 
 <font size="3" color="blue">
  Oi, meu nome é <b>Thierry P. Santos</b>, um desenvolvedor full-stack atualmente com 24 anos e que adora tecnologia, principalmente envolvendo design e front-end. <br>
@@ -24,26 +24,32 @@
 
 ---
 
-### ✨ Additional Information  ✨
+### ✨ Informações Adicionais (*Additional Information*)  ✨
 
 - 🌱 I’m currently learning libraries driven to web development like react, Node.js, Next.js, Javascript, Typescript and also React Native.
 - I love drawing and anything related to dinossaurs ou astronomy. 🦖👽🌌🎨
 - Fan of old school games. 🎮👾<br>
 
-<div width="100%">
-  <div align="center">
-    <a href="https://github.com/StealthWorm">                       
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=StealthWorm&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthWorm&theme=blue-green&layout=compact&langs_count=10"/>
-  </div>
+### Estatísticas do GitHub (*GitHub Stats*)
 
-## Activities
+<table style="width: auto">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=StealthWorm&show_icons=true&count_private=true&hide_border=true&theme=blue-green" align="center" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthWorm&hide_border=true&theme=blue-green&layout=compact" align="center" />
+    </td>
+  </tr>
+</table>
+
+## 🪶Atividades (*Activities*)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stealthworm&bg_color=292929&color=3bc484&line=3dffc5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 ---
   
-### ⚙️ I'm currently learning... ⚙️
+### ⚙️ Estou estudando (*I'm currently learning*) ⚙️
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Thierry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -63,7 +69,7 @@
   <img align="center" alt="Thierry-tortoise" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
 </div>
 	
-### ⚙️I have also worked or have some knowledge on...⚙️
+### ⚙️ Já trabalhei também com (*I have also worked or have some knowledge on*) ⚙️
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Thierry-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
