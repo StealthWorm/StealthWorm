@@ -1,5 +1,13 @@
 ## <h3 width="100%" align="center" color="blue">🛸🪐🔭👽 HELLO WORLD!!  👽🔭🪐🛸</h3>
 ---
+<br>
+<div align="center"> 
+  <a href="https://www.instagram.com/mm_thierry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thierrypitela@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thierry-pitela-santos-970221188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/thierry.pitela" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/thierrypitela" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+</div>
 
 ### 🦑✨ Who am I ✨🦑
 
@@ -82,20 +90,5 @@
 </div><br>
 
 ##
-<br>
-<div align="center"> 
-  <a href="https://www.instagram.com/mm_thierry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thierrypitela@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thierry-pitela-santos-970221188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/thierrypitela" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-</div>
-<br>
-
 <img width="100%" height="250px" src="https://66.media.tumblr.com/04222dc0068696db3238bff88c968305/tumblr_inline_n92y7nGykO1s3jnih.gif" />
-
-<div align="center">
-   <a href="https://github.com/tthn0/Spotify-Readme">
-     <img width="30%" height="100px" src="https://spotify-readme-afvlddu05-stealthworm.vercel.app/api?theme=dark&spin=true" alt="Current Spotify Song">
-   </a>	
-</div>
 
