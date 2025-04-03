@@ -12,23 +12,17 @@
 ### 🦑✨ Quem sou eu (*Who am I*) ✨🦑
 
 <font size="3" color="blue">
- Oi, meu nome é <b>Thierry P. Santos</b>, um desenvolvedor full-stack atualmente com 24 anos e que adora tecnologia, principalmente envolvendo design e front-end. <br>
- Sou estudante de desenvolvimento de software desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor fullstack na Bsoft, uma empresa que auxilia transportadores de pequeno e médio porte com seus processos e burocracias do mundo da logística.<br>
+ Oi, meu nome é <b>Thierry P. Santos</b>, um desenvolvedor full-stack atualmente com 25 anos e que adora tecnologia, principalmente envolvendo design e front-end. <br>
+ Sou estudante de desenvolvimento de software desde 2017, me graduei como Engenheiro de Software pela Universidade Estadual de Ponta Grossa (UEPG) e atualmente estou trabalhando como desenvolvedor front-end  voltados para o ecossitema de BigData.<br>
 
 <br>
 
 <em>
-  Hi there, my name is <b>Thierry Santos</b>, a full-stack developer with 24 years old and who loves technology, mainly involving design and front-end.<br> 
-  I've been a software development student since 2017, I graduated as a Software Engineer at the State University of Ponta Grossa (UEPG) and I'm currently working as a fullstack developer at Bsoft, a company that helps small and medium-sized transporters with their processes and bureaucracies of the logistics area.<br>
+  Hi there, my name is <b>Thierry Santos</b>, a 25-year-old full-stack developer who loves technology, especially design and front-end.<br> 
+  I've been a software development student since 2017, graduated as a Software Engineer from the State University of Ponta Grossa (UEPG) and am currently working as a front-end developer focused on the BigData ecosystem.<br>
 </em>
 
 ---
-
-### ✨ Informações Adicionais (*Additional Information*)  ✨
-
-- 🌱 I’m currently learning libraries driven to web development like react, Node.js, Next.js, Javascript, Typescript and also React Native.
-- I love drawing and anything related to dinossaurs ou astronomy. 🦖👽🌌🎨
-- Fan of old school games. 🎮👾<br>
 
 ### 🚀 Estatísticas do GitHub (*GitHub Stats*) 🚀
 
